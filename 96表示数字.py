@@ -12,3 +12,4 @@ while i < len(string):
     else:
         new_string += string[i]
         i += 1
+print(new_string)
